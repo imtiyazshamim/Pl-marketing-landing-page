@@ -1,6 +1,6 @@
 <?php
  
-$receiving_email_address = 'shamim@pinklemonade.in';
+$receiving_email_address = 'imtiyshamim@gmail.com';
 
 // Collecting the form data
 $from_name = $_POST['fname']; // Assuming 'fname' is the sender's name
