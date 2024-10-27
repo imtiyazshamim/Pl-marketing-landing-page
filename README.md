@@ -4,13 +4,13 @@ This repository contains a series of marketing landing pages designed for a prof
 
 ## Demo Links
 
-- [Corporate Video Production](https://imtiyazshamim.github.io/Pl-marketing-landing-page/video-production.html)  
+- [Corporate Video Production](https://imtiyazshamim.github.io/Pl-marketing-landing-page/video-production.html){:target="_blank"}  
   Discover our professional video production services, from corporate and testimonial videos to social media content, designed to help elevate your brand’s story with high-quality visual content.
 
-- [Branding Agency Bangalore](https://imtiyazshamim.github.io/Pl-marketing-landing-page/branding-agency-bangalore.html)  
+- [Branding Agency Bangalore](https://imtiyazshamim.github.io/Pl-marketing-landing-page/branding-agency-bangalore.html){:target="_blank"}  
   Explore our comprehensive branding services, helping businesses create a unique identity and gain a competitive edge in the market.
 
-- [Web Development](https://imtiyazshamim.github.io/Pl-marketing-landing-page/web-development.html)  
+- [Web Development](https://imtiyazshamim.github.io/Pl-marketing-landing-page/web-development.html){:target="_blank"}  
   Check out our custom web development services, building responsive, SEO-optimized websites that deliver excellent user experiences and drive business success.
 
 ## Project Overview
