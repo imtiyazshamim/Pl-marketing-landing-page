@@ -2,7 +2,7 @@
 
 date_default_timezone_set('Asia/Kolkata'); // Set the default timezone to IST
 
-$receiving_email_address = 'shamim@pinklemonade.in,team.web@pinklemonade.in,reachus@pinklemonade.in';
+$receiving_email_address = 'imtiyshamim@gmail.com';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
