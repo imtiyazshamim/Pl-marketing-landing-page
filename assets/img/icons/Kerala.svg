@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #c83e6f;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        stroke: #282828;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-2" width="24" height="24"/>
+      <path class="cls-1" d="m11.5,15h0c.97,0,1.75.78,1.75,1.75v4.75h-3.5v-4.75c0-.97.78-1.75,1.75-1.75Z"/>
+      <line class="cls-3" x1="2" y1="21.5" x2="21" y2="21.5"/>
+      <path class="cls-1" d="m5.33,17h0c.69,0,1.25.56,1.25,1.25v1.25h-2.5v-1.25c0-.69.56-1.25,1.25-1.25Z"/>
+      <path class="cls-1" d="m17.67,17h0c.69,0,1.25.56,1.25,1.25v1.25h-2.5v-1.25c0-.69.56-1.25,1.25-1.25Z"/>
+      <line class="cls-3" x1="8" y1="21.5" x2="8" y2="13"/>
+      <line class="cls-3" x1="15" y1="21.5" x2="15" y2="13"/>
+      <line class="cls-3" x1="20.5" y1="21.5" x2="20.5" y2="15.5"/>
+      <line class="cls-3" x1="11.5" y1="9" x2="11.5" y2="8"/>
+      <line class="cls-3" x1="2.5" y1="21.5" x2="2.5" y2="15.5"/>
+      <polygon class="cls-3" points="4.5 14 8 14 8 15.5 2.5 15.5 4.5 14"/>
+      <polygon class="cls-3" points="11.5 9 15.5 12 7.5 12 11.5 9"/>
+      <polygon class="cls-3" points="18.5 14 15 14 15 15.5 20.5 15.5 18.5 14"/>
+      <rect class="cls-3" x="15" y="12.5" width="3.5" height="1.5"/>
+      <rect class="cls-3" x="4.5" y="12.5" width="3.5" height="1.5"/>
+      <rect class="cls-3" x="8" y="12" width="7" height="1.5"/>
+      <line class="cls-3" x1="9.5" y1="10.5" x2="13.5" y2="10.5"/>
+    </g>
+  </g>
+</svg>

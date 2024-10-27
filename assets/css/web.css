@@ -1,0 +1,207 @@
+.whatwedosec .value-details{
+    padding: 30px;
+    margin-bottom: 20px;
+    border-radius: 0px;
+    border: 1px solid rgb(245, 207, 74);
+    min-height: 281px;
+    margin: 0;
+    background: #fffdf1;
+    border-radius: 10px;
+}
+.whatwedosec .value-details h3{
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000;
+    margin-top: 20px;
+}
+.whatwedosec .value-details img{
+    width: 64px !important;
+height: 64px
+}
+.whatwedo-slider .owl-dots{
+    position: relative;
+    top: 20px;
+
+}
+.skill-sec img {
+    width: 80px;
+    margin: auto;
+}
+.technologiesweb ul.tabs {
+	margin: 0;
+    padding: 0;
+    float: left;
+    list-style: none;
+    height: auto;
+    border-bottom: 1px solid #d6d6d6;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+        /*margin-top: 40px;*/
+}
+.webservice.values .box{
+    min-height: auto!important;
+        border-radius: 10px;
+}
+.webservice.values .box img{
+    height: 201px;
+}
+.webservice.values a:hover .box h3{
+    color: #C13A73;
+}
+.why-choose.webchoose .icon-box{
+    min-height: 318px;
+}
+/*.webtestimonials.testimonials .testimonial-item{*/
+/*    box-shadow: none;*/
+        /*border: 1px solid #e8aa4c;*/
+/*        border: 1px solid #c4447a;*/
+/*}*/
+.technologiesweb ul.tabs li {
+    float: left;
+    margin: 0;
+    cursor: pointer;
+    padding: 15px 30px;
+    height: auto;
+    line-height: 1.3;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    background-color: transparent;
+    color: #000000 !important;
+    overflow: hidden;
+    position: relative;
+    font-size: 22px;
+    border-bottom: 2px solid transparent !important;
+    /*margin-bottom: 20px;*/
+}
+
+/*.technologiesweb .tab_last { border-right: 1px solid #333; }*/
+
+.technologiesweb ul.tabs li:hover {
+	background-color: transparent;
+	color: #C13A73 !important;
+}
+
+.technologiesweb ul.tabs li.active {
+	background-color: transparent;
+	color: #C13A73 !important;
+	border-bottom: 2px solid #C13A73 !important;
+	display: block;
+}
+
+.technologiesweb .tab_container {
+    border: 1px solid transparent;
+    border-top: none;
+    clear: both;
+    float: left;
+    width: 100%;
+    background: transparent;
+    overflow: auto;
+}
+
+.technologiesweb .tab_content {
+	padding: 20px;
+	display: none;
+}
+
+.technologiesweb .tab_drawer_heading { display: none; }
+@media all and (min-width: 992px) and (max-width: 1100px){
+    .technologiesweb ul.tabs li{
+        padding: 15px 20px;
+    }
+}
+@media all and (min-width: 768px) and (max-width: 991px){
+    .technologiesweb ul.tabs li{
+        font-size: 18px;
+        padding: 15px;
+    }
+}
+@media all and (max-width: 767px) {
+	.technologiesweb ul.tabs {
+		display: none;
+	}
+	.technologiesweb .tab_drawer_heading {
+         /*float: left;*/
+        margin: 15px 0;
+        cursor: pointer;
+        padding: 15px 30px;
+        height: auto;
+        line-height: 1.3;
+        border-top: none;
+        border-left: none;
+        border-bottom: none;
+        background-color: transparent;
+        color: #000000 !important;
+        /*overflow: hidden;*/
+        position: relative;
+        font-size: 20px;
+        border: 2px solid #000 !important;
+        display: block;
+        font-weight: 500;
+	}
+	.technologiesweb .d_active {
+        background-color: transparent;
+        color: #C13A73 !important;
+        border: 1px solid #C13A73 !important;
+        display: block;
+	}
+	.technologiesweb .tab_drawer_heading.d_active::after {
+        content: "";
+        position: absolute;
+        width: 12px;
+        height: 12px;
+        border: 2px solid #C13A73;
+        right: 20px;
+        transform: rotate(-135deg);
+        border-bottom: 0;
+        border-right: 0;
+        top: 20px;
+        transition: all 0.5s ease;
+    }
+    .technologiesweb .tab_drawer_heading::after{
+        content: "";
+        position: absolute;
+        width: 12px;
+        height: 12px;
+        border: 1px solid #000;
+        right: 20px;
+        transform: rotate(-135deg);
+        border-bottom: 0;
+        border-right: 0;
+        top: 20px;
+        transition: all 0.5s ease;
+    }
+    .technologiesweb .tab_container{
+        text-align: center;
+    }
+}
+
+/*case study */
+.case-slider .item{
+    background:#fff;
+    border-radius:10px;
+}
+.case-slider .item  img{
+    background:#fff;
+    border-radius:10px 10px 0px 0px;
+}
+.case-slider .item{
+    background:#fff;
+    border-radius:10px;
+}
+.case-slider .item  .value-details{
+   min-height: 220px;
+}
+.case-slider .item  .value-details h3{
+  line-height:1.3;
+	font-size:24px
+}
+
+.skill-sec {
+    text-align: center;
+}
+
+.case-slider button:hover {
+    background:transparent!important;
+}
